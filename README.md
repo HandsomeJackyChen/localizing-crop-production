@@ -1,4 +1,5 @@
 # 🌱 Climate-Aware Crop Localization Platform
+Localizing Crop Production with Climate, Soil, and Land Use Data
 
 **Hackathon Project | Seattle Climate Hackathon 2025**  
 *By "Jacky" Chen Xu, Ph.D.*
@@ -7,7 +8,9 @@
 
 ## 🚀 Project Overview
 
-This project aims to build a data-driven platform that helps **localize the production of imported crops** by identifying environmentally suitable growing regions using climate, soil, and land use data.
+This project aims to identify viable locations for local crop production as a strategy to reduce dependence on imported crops and enhance regional food security. By integrating multi-source environmental data — including climate, soil, and land use — we will develop a data-driven tool that pinpoints optimal regions for cultivating crops traditionally sourced from outside a given country or region.
+
+The core idea is to build a data-driven platform that helps **localize the production of imported crops** by identifying environmentally suitable growing regions using climate, soil, and land use data. By assessing and matching agro-ecological requirements of key crops with spatial environmental data using machine learning, geospatial analysis, and remote sensing, our target is to visualize the results in an intuitive, interactive format, and offer users cost-reduction incentives.
 
 The long-term vision is to empower **small business owners** (restaurants, retailers, tea houses, etc.) to shift away from global imports and source their crops locally or domestically — supporting climate resilience, cost savings, and sustainable food systems.
 
@@ -15,11 +18,10 @@ The long-term vision is to empower **small business owners** (restaurants, retai
 
 ## 🌍 Why This Matters
 
-- 🌾 **Food Security**: Reducing dependence on volatile global supply chains  
+- 🌾 **Food Security**: Localizing agriculture mitigates risks tied to global supply chains, price shocks, and geopolitical instability  
+- 🌱 **Sustainability**: Reducing food miles contributes to lower carbon emissions and improved environmental resilience
 - 💸 **Cost Efficiency**: Helping businesses bypass import tariffs by sourcing closer to home  
-- 📊 **Data-Driven Planning**: Guiding strategic decisions with spatial intelligence  
-- 🌱 **Sustainability**: Lowering emissions and promoting resilient local agriculture
-
+- 📊 **Data-Driven Planning**: Guiding strategic decisions with spatial intelligence to guide land-use decisions 
 ---
 
 ## 📊 Data Sources
