@@ -52,29 +52,55 @@ The long-term vision is to empower **small business owners** (restaurants, retai
 
 ---
 
-## 🧩 Commercialization Vision
+## 💼 Commercialization & Long-Term Vision
 
-Instead of targeting farmers directly, the platform **empowers small businesses** to influence farming decisions:
-- Leverages community demand through **restaurant alliances**, **tea houses**, and **chambers of commerce**
-- Encourages farmers to adjust cropping strategies when **demand certainty** is high
-- Builds a scalable solution to eventually license to larger enterprises (e.g., Starbucks)
-- Supports USDA engagement to shape **climate-aligned subsidy policies**
+The long-term strategy behind this platform is to connect and empower small business owners, such as restaurants, tea houses, and specialty retailers — a group that vastly outnumbers farmers and collectively shapes significant food demand.
+
+- 🔄 Demand-Driven Crop Strategy
+
+Rather than trying to persuade farmers with climate data alone (which often doesn’t drive action due to the focus on profitability and subsidies), we flip the model:
+
+Aggregate demand from small businesses who want to reduce their costs and source more locally
+
+Help these businesses identify where key imported crops (e.g., tea, avocado) can be grown domestically
+
+Provide cost comparison insights, including the impact of tariffs (e.g., U.S.–Mexico avocado imports or U.S.–China tea tariffs)
+
+This model reduces uncertainty for farmers, who gain confidence knowing there’s already local demand for specific crops, making them more likely to shift their production or use underutilized land areas (like gaps in center-pivot irrigation systems).
+
+- 🥑🌿 Real-World Example Use Cases:
+Avocados: Inform Mexican/brunch restaurants where they could source from U.S.-grown avocados
+Tea: Inform local tea houses where U.S.-grown tea could substitute imported Chinese tea
+
+- 🧩 Community Engagement & Market Entry
+
+We can promote and advocate this platform directly to small business communities through:
+Regional restaurant alliances
+Local chambers of commerce
+Community business meetings and food cooperatives
+
+These existing networks are ideal for presenting the tool, collecting feedback, and building an early user base. Their endorsement can serve as a powerful bridge between tech innovation and community-driven agricultural planning.
+
+- 💡 Monetization & Policy Impact:
+Patent the platform and license it to large buyers (e.g., Starbucks, Whole Foods) as a sourcing intelligence tool
+Collaborate with the USDA to align crop suitability with agricultural subsidy planning
+Scale the platform to become a tool for climate-aligned supply chain management and food system resilience
 
 ---
 
 ## 💻 Technologies & Tools
 
+- 🧪 **Python/R** – Data wrangling, ML models, visualization; classification, clustering, or matching crop zones, and cost analysis  
 - 🌍 **Google Earth Engine** – Remote sensing & spatial processing  
-- 🧪 **Python/R** – Data wrangling, ML models, cost analysis  
-- 🗺️ **QGIS / ArcGIS** – Geospatial visualization  
-- 🧰 **GitHub + Streamlit or React** – (Planned) front-end or dashboard  
+- 🗺️ **Interactive map application / ArcGIS / QGIS** – Geospatial analysis and visualization  
+- 🧰 **GitHub + Streamlit or React (dashboard prototype)** – (Planned) front-end or dashboard  
 - 📂 **Jupyter Notebooks** – Model prototyping and documentation
 
 ---
 
 ## 🧑‍🤝‍🧑 Team Roles
 
-We're looking for collaborators with experience or interest in:
+Our collaborators specialize and are interested in:
 - **Machine Learning** (crop zone classification)
 - **Geospatial Analysis** (remote sensing, GIS)
 - **Frontend/UX** (dashboard or web app)
