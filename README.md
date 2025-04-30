@@ -56,35 +56,34 @@ The long-term vision is to empower **small business owners** (restaurants, retai
 
 The long-term strategy behind this platform is to connect and empower small business owners, such as restaurants, tea houses, and specialty retailers — a group that vastly outnumbers farmers and collectively shapes significant food demand.
 
-- 🔄 Demand-Driven Crop Strategy
+### 🔄 Demand-Driven Crop Strategy
 
 Rather than trying to persuade farmers with climate data alone (which often doesn’t drive action due to the focus on profitability and subsidies), we flip the model:
 
-Aggregate demand from small businesses who want to reduce their costs and source more locally
-
-Help these businesses identify where key imported crops (e.g., tea, avocado) can be grown domestically
-
-Provide cost comparison insights, including the impact of tariffs (e.g., U.S.–Mexico avocado imports or U.S.–China tea tariffs)
+- Aggregate demand from small businesses who want to reduce their costs and source more locally
+- Help these businesses identify where key imported crops (e.g., tea, avocado) can be grown domestically
+- Provide cost comparison insights, including the impact of tariffs (e.g., U.S.–Mexico avocado imports or U.S.–China tea tariffs)
 
 This model reduces uncertainty for farmers, who gain confidence knowing there’s already local demand for specific crops, making them more likely to shift their production or use underutilized land areas (like gaps in center-pivot irrigation systems).
 
-- 🥑🌿 Real-World Example Use Cases:
-Avocados: Inform Mexican/brunch restaurants where they could source from U.S.-grown avocados
-Tea: Inform local tea houses where U.S.-grown tea could substitute imported Chinese tea
+### 🥑🌿 Real-World Example Use Cases:
 
-- 🧩 Community Engagement & Market Entry
+- Avocados: Inform Mexican/brunch restaurants where they could source from U.S.-grown avocados
+- Tea: Inform local tea houses where U.S.-grown tea could substitute imported Chinese tea
+
+### 🧩 Community Engagement & Market Entry
 
 We can promote and advocate this platform directly to small business communities through:
-Regional restaurant alliances
-Local chambers of commerce
-Community business meetings and food cooperatives
+- Regional restaurant alliances
+- Local chambers of commerce
+- Community business meetings and food cooperatives
 
 These existing networks are ideal for presenting the tool, collecting feedback, and building an early user base. Their endorsement can serve as a powerful bridge between tech innovation and community-driven agricultural planning.
 
-- 💡 Monetization & Policy Impact:
-Patent the platform and license it to large buyers (e.g., Starbucks, Whole Foods) as a sourcing intelligence tool
-Collaborate with the USDA to align crop suitability with agricultural subsidy planning
-Scale the platform to become a tool for climate-aligned supply chain management and food system resilience
+### 💡 Monetization & Policy Impact:
+- Patent the platform and license it to large buyers (e.g., Starbucks, Whole Foods) as a sourcing intelligence tool
+- Collaborate with the USDA to align crop suitability with agricultural subsidy planning
+- Scale the platform to become a tool for climate-aligned supply chain management and food system resilience
 
 ---
 
