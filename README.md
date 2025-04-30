@@ -76,7 +76,7 @@ We're looking for collaborators with experience or interest in:
 - **Machine Learning** (crop zone classification)
 - **Geospatial Analysis** (remote sensing, GIS)
 - **Frontend/UX** (dashboard or web app)
-- **Agricultural Economics or Policy**
+- **Climate/Agri/Env Economics or Policy Thinker** (for real-world alignment)
 
 > 👍 DM @Jacky or drop a comment in the channel if you’re interested in contributing!
 
