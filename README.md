@@ -100,12 +100,10 @@ These existing networks are ideal for presenting the tool, collecting feedback, 
 ## 🧑‍🤝‍🧑 Team Roles
 
 Our collaborators specialize and are interested in:
-- **Machine Learning** (crop zone classification)
-- **Geospatial Analysis** (remote sensing, GIS)
-- **Frontend/UX** (dashboard or web app)
+- **Data Scientist/ML Developer** (classification, clustering, or matching crop zones, and cost analysis)
+- **Geospatial Analysis** (remote sensing, GIS: preprocess spatial datasets)
+- **Frontend/UX** (dashboard or web app: for visualization/dashboard)
 - **Climate/Agri/Env Economics or Policy Thinker** (for real-world alignment)
-
-> 👍 DM @Jacky or drop a comment in the channel if you’re interested in contributing!
 
 ---
 
@@ -113,22 +111,15 @@ Our collaborators specialize and are interested in:
 
 - [x] Draft concept & validate use cases  
 - [x] Meet with potential collaborators  
-- [ ] Finalize core datasets and preprocessing  
-- [ ] Build suitability scoring model  
-- [ ] Estimate cost-savings model for selected crops  
+- [ ] Finalize core datasets and processing to match crop environmental requirements to spatial data 
+- [ ] Build a proof-of-concept suitability scoring model  
 - [ ] Create early-stage dashboard or prototype  
-- [ ] Pitch to judges + submit MVP
+- [ ] Demonstrate cost-reduction potential for small businesses shifting from imports  
+- [ ] Outline outreach strategy to local business networks and commercialization roadmap
 
 ---
 
-## 📌 Example Use Cases
-
-- 🥑 **Avocados**: Can brunch spots in California source them domestically instead of from Mexico?  
-- 🍵 **Tea**: Can U.S. tea houses shift from Chinese imports to U.S. climate-compatible tea zones?
-
----
-
-## 📄 License
+## 📄 License/Patent
 
 TBD – For hackathon demo and research purposes only (patent pending strategy in development).
 
