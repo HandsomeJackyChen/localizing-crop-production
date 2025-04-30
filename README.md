@@ -107,10 +107,13 @@ TBD – For hackathon demo and research purposes only (patent pending strategy i
 
 ---
 
-## 🙋 About the Creator
+## 🙋 About the Team
+(Feel free to put down your name, your background, and your proposed contribution to the project)
 
-**Jacky Chen Xu, Ph.D.**  
-Water Resources Engineer | Geospatial Data Scientist  
-📧 xuchen.water@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/jackychenxu/)
+“Jacky” Chen Xu: I'm a recent Ph.D. in Civil Engineering from Washington State University. I specialize in water resources, climate and hydrologic modeling, GIS/remote sensing, and stakeholder-driven research. My work spans agricultural water demand forecasting, soil moisture modeling, and cross-sector communication. Let’s team up to build something real and impactful! 🌾📡
+
+Theertha Shetty: I’m a Product and UX Designer. I have a Master’s in Human Centered Design and Engineering and can take a product from 0-1. My specialties include user research, competitor research, UX + UI Design. My contributions will be the presentation of our research findings and the dashboard prototype.   
+
+Colin Wilson: I'm a mechanical engineer with many years of industry experience, and more recently I completed a masters degree at UW. Much of my career has been focused on structural design, as well as product concept and prototyping. My contribution to this project will be in product concept development, product testing, presentation work, business plan development, and deep dive research into any issues relevant to the project.
 
 ---
