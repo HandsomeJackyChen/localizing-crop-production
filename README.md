@@ -134,4 +134,8 @@ Theertha Shetty: I’m a Product and UX Designer. I have a Master’s in Human C
 
 Colin Wilson: I'm a mechanical engineer with many years of industry experience, and more recently I completed a masters degree at UW. Much of my career has been focused on structural design, as well as product concept and prototyping. My contribution to this project will be in product concept development, product testing, presentation work, business plan development, and deep dive research into any issues relevant to the project.
 
+Elham Afruzi: I have a Ph.D. in Industrial Engineering with experience in data science and machine learning. I can support data exploration, visualization, statistical analysis, and deploying ML models. Looking forward to working with you all!
+
+Ben Schulz: I’m a frontend software engineer who loves making complex systems feel simple. I’m excited about putting together some map views and visualizations to help bring the data to life!
+
 ---
