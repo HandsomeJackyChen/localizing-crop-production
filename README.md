@@ -29,7 +29,7 @@ The long-term vision is to empower **small business owners** (restaurants, retai
 | Parameter             | Description                          | Source |
 |-----------------------|--------------------------------------|--------|
 | 🌡️ Climate            | Temp, precipitation, radiation       | [Berkeley Earth Data](https://berkeleyearth.org/data/), [CHIRPS](https://www.chc.ucsb.edu/data/chirps), [NASA POWER](https://power.larc.nasa.gov/) |
-| 💧 Water              | Precip, streamflow, irrigation       | [GPCC (station)](https://psl.noaa.gov/data/gridded/data.gpcc.html), [GPCP (satellite+gauge)](https://psl.noaa.gov/data/gridded/data.gpcp.html), [GPM](https://gpm.nasa.gov/data), [GSCD](https://data.jrc.ec.europa.eu/dataset/09991d93-0336-4e34-9d3e-5927b9658a3d), [MIRCA-OS](https://github.com/MIRCA-OS/MIRCA-OS_Code​) |
+| 💧 Water              | Precip, streamflow, irrigation       | [GPM](https://gpm.nasa.gov/data), [GSCD](https://data.jrc.ec.europa.eu/dataset/09991d93-0336-4e34-9d3e-5927b9658a3d), [MIRCA-OS](https://github.com/MIRCA-OS/MIRCA-OS_Code​) |
 | 🌱 Soil               | Nutrients, moisture, texture         | [SoilGrids](https://soilgrids.org/), [ESA CCI](https://www.esa-soilmoisture-cci.org/), [SMAP](https://smap.jpl.nasa.gov/) |
 | 🗺️ Land Cover         | Land use, crop type                  | [MODIS LULC](https://modis.gsfc.nasa.gov/data/dataprod/mod12.php), [CROPGRIDS](https://figshare.com/articles/dataset/CROPGRIDS/22491997) |
 | 🏔️ Topography         | Elevation, slope                     | [SRTM](https://www.earthdata.nasa.gov/data/instruments/srtm), [Copernicus DEM](https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM) |
