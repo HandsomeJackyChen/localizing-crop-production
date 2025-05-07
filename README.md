@@ -30,9 +30,9 @@ The long-term vision is to empower **small business owners** (restaurants, retai
 |-----------------------|--------------------------------------|--------|
 | 🌡️ Climate            | Temp, precipitation, radiation       | [NASA POWER](https://power.larc.nasa.gov/), [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5), [CHIRPS](https://www.chc.ucsb.edu/data/chirps) |
 | 🌱 Soil               | Moisture, nutrients, texture         | [SoilGrids](https://soilgrids.org/), [SMAP](https://smap.jpl.nasa.gov/), [ESA CCI](https://www.esa-soilmoisture-cci.org/) |
-| 🗺️ Land Cover        | Crop types, land use                 | [Copernicus LC](https://lcviewer.vito.be/), [MODIS LULC](https://modis.gsfc.nasa.gov/data/dataprod/mod12.php), [GLAD](https://glad.umd.edu/dataset/crop-mask) |
-| 🏔️ Topography        | Elevation, slope                     | [SRTM](https://www2.jpl.nasa.gov/srtm/), [Copernicus DEM](https://spacedata.copernicus.eu/web/cscda/datasets?search=DEM), [ASTER GDEM](https://earthdata.nasa.gov/) |
-| 🌿 Vegetation Index  | NDVI/EVI, crop health/phenology     | [MODIS NDVI](https://modis.gsfc.nasa.gov/data/dataprod/mod13.php), [Sentinel-2](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2), [GIMMS NDVI3g](https://ecocast.arc.nasa.gov/data/pub/gimms/) |
+| 🗺️ Land Cover        | Crop types, land use                 | [MODIS LULC](https://modis.gsfc.nasa.gov/data/dataprod/mod12.php) |
+| 🏔️ Topography        | Elevation, slope                     | [SRTM](https://www.earthdata.nasa.gov/data/instruments/srtm), [Copernicus DEM](https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM) |
+| 🌿 Vegetation Index  | NDVI/EVI, crop health/phenology     | [MODIS NDVI](https://modis.gsfc.nasa.gov/data/dataprod/mod13.php), [Sentinel-2](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2), [GIMMS NDVI3g](https://climatedataguide.ucar.edu/climate-data/ndvi-normalized-difference-vegetation-index-3rd-generation-nasagfsc-gimms) |
 
 ---
 
