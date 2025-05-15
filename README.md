@@ -1,8 +1,9 @@
 # 🌱 Climate-Aware Crop Localization Platform
+
 Localizing Crop Production with Climate, Soil, and Land Use Data
 
 **Hackathon Project | Seattle Climate Hackathon 2025**  
-*By "Jacky" Chen Xu, Ph.D.*
+_By "Jacky" Chen Xu, Ph.D._
 
 ---
 
@@ -18,21 +19,22 @@ The long-term vision is to empower **small business owners** (restaurants, retai
 
 ## 🌍 Why This Matters
 
-- 🌾 **Food Security**: Localizing agriculture mitigates risks tied to global supply chains, price shocks, and geopolitical instability  
+- 🌾 **Food Security**: Localizing agriculture mitigates risks tied to global supply chains, price shocks, and geopolitical instability
 - 🌱 **Sustainability**: Reducing food miles contributes to lower carbon emissions and improved environmental resilience
-- 💸 **Cost Efficiency**: Helping businesses bypass import tariffs by sourcing closer to home  
-- 📊 **Data-Driven Planning**: Guiding strategic decisions with spatial intelligence to guide land-use decisions 
+- 💸 **Cost Efficiency**: Helping businesses bypass import tariffs by sourcing closer to home
+- 📊 **Data-Driven Planning**: Guiding strategic decisions with spatial intelligence to guide land-use decisions
+
 ---
 
 ## 📊 Data Sources
 
-| Parameter             | Description                          | Source |
-|-----------------------|--------------------------------------|--------|
-| 🌡️ Climate            | Temp, precipitation, radiation       | [NASA POWER](https://power.larc.nasa.gov/), [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5), [CHIRPS](https://www.chc.ucsb.edu/data/chirps) |
-| 🌱 Soil               | Moisture, nutrients, texture         | [SoilGrids](https://soilgrids.org/), [SMAP](https://smap.jpl.nasa.gov/), [ESA CCI](https://www.esa-soilmoisture-cci.org/) |
-| 🗺️ Land Cover        | Crop types, land use                 | [Copernicus LC](https://lcviewer.vito.be/), [MODIS LULC](https://modis.gsfc.nasa.gov/data/dataprod/mod12.php), [GLAD](https://glad.umd.edu/dataset/crop-mask) |
-| 🏔️ Topography        | Elevation, slope                     | [SRTM](https://www2.jpl.nasa.gov/srtm/), [Copernicus DEM](https://spacedata.copernicus.eu/web/cscda/datasets?search=DEM), [ASTER GDEM](https://earthdata.nasa.gov/) |
-| 🌿 Vegetation Index  | NDVI/EVI, crop health/phenology     | [MODIS NDVI](https://modis.gsfc.nasa.gov/data/dataprod/mod13.php), [Sentinel-2](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2), [GIMMS NDVI3g](https://ecocast.arc.nasa.gov/data/pub/gimms/) |
+| Parameter           | Description                     | Source                                                                                                                                                                                                          |
+| ------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌡️ Climate          | Temp, precipitation, radiation  | [NASA POWER](https://power.larc.nasa.gov/), [ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5), [CHIRPS](https://www.chc.ucsb.edu/data/chirps)                                        |
+| 🌱 Soil             | Moisture, nutrients, texture    | [SoilGrids](https://soilgrids.org/), [SMAP](https://smap.jpl.nasa.gov/), [ESA CCI](https://www.esa-soilmoisture-cci.org/)                                                                                       |
+| 🗺️ Land Cover       | Crop types, land use            | [Copernicus LC](https://lcviewer.vito.be/), [MODIS LULC](https://modis.gsfc.nasa.gov/data/dataprod/mod12.php), [GLAD](https://glad.umd.edu/dataset/crop-mask)                                                   |
+| 🏔️ Topography       | Elevation, slope                | [SRTM](https://www2.jpl.nasa.gov/srtm/), [Copernicus DEM](https://spacedata.copernicus.eu/web/cscda/datasets?search=DEM), [ASTER GDEM](https://earthdata.nasa.gov/)                                             |
+| 🌿 Vegetation Index | NDVI/EVI, crop health/phenology | [MODIS NDVI](https://modis.gsfc.nasa.gov/data/dataprod/mod13.php), [Sentinel-2](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2), [GIMMS NDVI3g](https://ecocast.arc.nasa.gov/data/pub/gimms/) |
 
 ---
 
@@ -74,6 +76,7 @@ This model reduces uncertainty for farmers, who gain confidence knowing there’
 ### 🧩 Community Engagement & Market Entry
 
 We can promote and advocate this platform directly to small business communities through:
+
 - Regional restaurant alliances
 - Local chambers of commerce
 - Community business meetings and food cooperatives
@@ -81,6 +84,7 @@ We can promote and advocate this platform directly to small business communities
 These existing networks are ideal for presenting the tool, collecting feedback, and building an early user base. Their endorsement can serve as a powerful bridge between tech innovation and community-driven agricultural planning.
 
 ### 💡 Monetization & Policy Impact:
+
 - Patent the platform and license it to large buyers (e.g., Starbucks, Whole Foods) as a sourcing intelligence tool
 - Collaborate with the USDA to align crop suitability with agricultural subsidy planning
 - Scale the platform to become a tool for climate-aligned supply chain management and food system resilience
@@ -89,10 +93,10 @@ These existing networks are ideal for presenting the tool, collecting feedback, 
 
 ## 💻 Technologies & Tools
 
-- 🧪 **Python/R** – Data wrangling, ML models, visualization; classification, clustering, or matching crop zones, and cost analysis  
-- 🌍 **Google Earth Engine** – Remote sensing & spatial processing  
-- 🗺️ **Interactive map application / ArcGIS / QGIS** – Geospatial analysis and visualization  
-- 🧰 **GitHub + Streamlit or React (dashboard prototype)** – (Planned) front-end or dashboard  
+- 🧪 **Python/R** – Data wrangling, ML models, visualization; classification, clustering, or matching crop zones, and cost analysis
+- 🌍 **Google Earth Engine** – Remote sensing & spatial processing
+- 🗺️ **Interactive map application / ArcGIS / QGIS** – Geospatial analysis and visualization
+- 🧰 **GitHub + Streamlit or React (dashboard prototype)** – (Planned) front-end or dashboard
 - 📂 **Jupyter Notebooks** – Model prototyping and documentation
 
 ---
@@ -100,6 +104,7 @@ These existing networks are ideal for presenting the tool, collecting feedback, 
 ## 🧑‍🤝‍🧑 Team Roles
 
 Our collaborators specialize and are interested in:
+
 - **Data Scientist/ML Developer** (classification, clustering, or matching crop zones, and cost analysis)
 - **Geospatial Analysis** (remote sensing, GIS: preprocess spatial datasets)
 - **Frontend/UX** (dashboard or web app: for visualization/dashboard)
@@ -109,12 +114,12 @@ Our collaborators specialize and are interested in:
 
 ## ✅ Hackathon Goals
 
-- [x] Draft concept & validate use cases  
-- [x] Meet with potential collaborators  
-- [ ] Finalize core datasets and processing to match crop environmental requirements to spatial data 
-- [ ] Build a proof-of-concept suitability scoring model  
-- [ ] Create early-stage dashboard or prototype  
-- [ ] Demonstrate cost-reduction potential for small businesses shifting from imports  
+- [x] Draft concept & validate use cases
+- [x] Meet with potential collaborators
+- [ ] Finalize core datasets and processing to match crop environmental requirements to spatial data
+- [ ] Build a proof-of-concept suitability scoring model
+- [ ] Create early-stage dashboard or prototype
+- [ ] Demonstrate cost-reduction potential for small businesses shifting from imports
 - [ ] Outline outreach strategy to local business networks and commercialization roadmap
 
 ---
@@ -126,12 +131,17 @@ TBD – For hackathon demo and research purposes only (patent pending strategy i
 ---
 
 ## 🙋 About the Team
+
 (Feel free to put down your name, your background, and your proposed contribution to the project)
 
 “Jacky” Chen Xu: I'm a recent Ph.D. in Civil Engineering from Washington State University. I specialize in water resources, climate and hydrologic modeling, GIS/remote sensing, and stakeholder-driven research. My work spans agricultural water demand forecasting, soil moisture modeling, and cross-sector communication. Let’s team up to build something real and impactful! 🌾📡
 
-Theertha Shetty: I’m a Product and UX Designer. I have a Master’s in Human Centered Design and Engineering and can take a product from 0-1. My specialties include user research, competitor research, UX + UI Design. My contributions will be the presentation of our research findings and the dashboard prototype.   
+Theertha Shetty: I’m a Product and UX Designer. I have a Master’s in Human Centered Design and Engineering and can take a product from 0-1. My specialties include user research, competitor research, UX + UI Design. My contributions will be the presentation of our research findings and the dashboard prototype.
 
 Colin Wilson: I'm a mechanical engineer with many years of industry experience, and more recently I completed a masters degree at UW. Much of my career has been focused on structural design, as well as product concept and prototyping. My contribution to this project will be in product concept development, product testing, presentation work, business plan development, and deep dive research into any issues relevant to the project.
 
 ---
+
+## Map Demo
+
+See [Map Demo README](MapDemo/README.md).
